@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Nyheter
 menus:
   main:
-    title: Blog
+    title: Nyheter
     weight: 3
 template: blog
 ---
