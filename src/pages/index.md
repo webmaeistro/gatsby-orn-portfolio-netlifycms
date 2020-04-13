@@ -5,8 +5,8 @@ sections:
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
-    subtitle: utgitt av lørn forlag
-    title: Bøkene våre
+    subtitle: Våre bøker
+    title: "Ørn Forlag "
     type: portfolioblock
     layout_style: mosaic
     component: PortfolioBlock
