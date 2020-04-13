@@ -5,16 +5,15 @@ sections:
     title: "Ørn Forlag "
     section_id: hero
     component: HeroBlock
-    content: This section can contain a subtitle or tagline. The recommended length
-      is one to three sentences, but can be changed as you prefer.
-  - view_all_text: View All
+    content: Utgir bøker om norsk natur og kultur
+  - view_all_text: Se alle
     num_projects_displayed: 6
     section_id: latest-projects
     view_all_url: portfolio/index.html
-    subtitle: An optional subtitle of the section
+    subtitle: utgitt av lørn forlag
     title: Bøkene våre
     type: portfolioblock
-    layout_style: mosaic
+    layout_style: tiles
     component: PortfolioBlock
   - type: servicesblock
     title: What We Do
