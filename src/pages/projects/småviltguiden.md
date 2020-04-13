@@ -6,7 +6,7 @@ thumb_img_path: /images/smaaviltguiden_omslag_0.jpg
 content_img_path: /images/smaaviltguiden_omslag_0.jpg
 menus:
   main:
-    title: "Småviltguiden "
+    title: ""
 template: project
 ---
 **Hvordan skille jaktbart fra fredet vilt?**Det er det viktigste en jeger må kunne. Samtidig er det kanskje også det vanskeligste, noe ikke minst erfaringer fra jegerprøvene viser. Denne boka forteller på en enkel måte hvordan du i typiske jaktsituasjoner ser forskjell på de artene du kan felle - og hvilke du må la gå. Samtidig får du mye nyttig og spennende informasjon om viltet. En god jeger kjenner sitt bytte!
