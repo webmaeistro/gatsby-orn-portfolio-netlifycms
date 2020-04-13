@@ -6,7 +6,7 @@ thumb_img_path: /images/sommerfugler1500x1000.jpg
 content_img_path: /images/sommerfugler_320x320.jpg
 menus:
   main:
-    identifier: bøkene
+    identifier: ""
 template: project
 ---
 # Opplev og utforsk sommerfugler
