@@ -6,7 +6,7 @@ thumb_img_path: /images/syenbunad_2utg_omslag_smallersize.jpg
 content_img_path: /images/syenbunad_2utg_omslag_smallersize.jpg
 menus:
   main:
-    identifier: bøkene
+    identifier: ""
 template: project
 ---
 ## Vår populære bok Sy en bunad har nå kommet i ny utgave, med oppdatert tekst og flere variasjoner!
