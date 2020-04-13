@@ -2,6 +2,8 @@
 title: Guide til Norges fugleliv
 subtitle: De beste lokalitetene og mest ettertraktede artene.
 date: 2010-04-08T22:00:00.000Z
+thumb_img_path: /images/sommerfugler1500x1000.jpg
+content_img_path: /images/guidetilnorges_omslag_littliten.jpg
 template: project
 ---
 Denne kritikerroste boka ble raskt utsolgt fra forlaget, men er fremdeles å få tak i gjennom en del bokhandlere, deriblant [Natur og fritid](http://www.naturogfritid.no/default.asp?VS=detalj&refs=LISTE&ID=811016&&utnr=0&SOKG=ALLE&sql=tveit&Vtitle=Guide+til+Norges+fugleliv) **Den ventes utgitt i ny utgave våren 2018.**
