@@ -1,5 +1,6 @@
 ---
-title: "Småviltguiden "
+title: "Småviltguiden -Artskunnskap for jegere - Hvordan skille jaktbart fra
+  fredet vilt "
 subtitle: Artskunnskap for jegere
 date: 2019-10-06T22:00:00.000Z
 thumb_img_path: /images/smaaviltguiden_omslag_0.jpg
