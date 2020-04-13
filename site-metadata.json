@@ -4,11 +4,11 @@
   "accent_color": "blue",
   "header": {
     "title": "Ørn Forlag",
-    "has_nav": true,
+    "has_nav": false,
     "logo_img": "/images/ornshop-logo.png"
   },
   "footer": {
-    "content": "&copy; Ørn Forlag. Alle rettigheter reservert. ",
+    "content": "2020 &copy; Ørn Forlag. Alle rettigheter reservert. ",
     "links": [
       {
         "text": "Website by: Martin Andersen ",
