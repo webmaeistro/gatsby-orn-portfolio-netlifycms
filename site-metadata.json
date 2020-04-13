@@ -4,7 +4,7 @@
   "accent_color": "blue",
   "header": {
     "title": "Ørn Forlag",
-    "has_nav": false,
+    "has_nav": true,
     "logo_img": "/images/ornshop-logo.png"
   },
   "footer": {
