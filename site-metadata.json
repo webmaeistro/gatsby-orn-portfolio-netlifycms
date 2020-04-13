@@ -7,11 +7,11 @@
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+    "content": "&copy; Ørn Forlag. Alle rettigheter reservert. ",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Website by: Martin Andersen built with 💜 using Gatsbyjs ",
+        "url": "https://github.com/webmaeistro ",
         "new_window": true
       }
     ],
