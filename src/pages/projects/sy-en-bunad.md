@@ -9,7 +9,7 @@ menus:
     identifier: ""
 template: project
 ---
-## Vår populære bok Sy en bunad har nå kommet i ny utgave, med oppdatert tekst og flere variasjoner!
+**Vår populære bok Sy en bunad har nå kommet i ny utgave, med oppdatert tekst og flere variasjoner!**
 
 Å sy en bunad selv er en kreativ prosess som gir stor glede. Det er spennende å sy et tradisjonsrikt festplagg som kan brukes i generasjoner. En av de mest populære bunadene er beltestakken, både fordi den er vakker og fordi den har utrolig mange variasjonsmuligheter. I denne boka tar Torgunn Andersen deg med gjennom hele prosessen med å sy, brodere og montere en beltestakk. Foruten å forklare i ord og bilder – trinn for trinn – hvordan du går fram, gir hun deg råd om valg av sølv til bunaden, påkledning, vedlikehold og stell. Ønsker du å lære hvordan du kan sy en bunad, gir denne boka deg inspirasjon til å komme i gang og hjelp til å komme i mål.
 
@@ -37,7 +37,7 @@ I den nye 2. utgaven har forfatteren fulgt første utgave av boka, trinn for tri
 * Ordliste med forklaringer
 * Register
 
-Boka er illustrert med pedagogiske illustrasjoner og flotte bilder, tatt av[Kristin Syverud](http://www.syverudfoto.no/).\
+Boka er illustrert med pedagogiske illustrasjoner og flotte bilder, tatt av[Kristin Syverud](https://www.syverudfoto.no/).\
 ![Hjulet](https://ornforlag.no/static/55db05a5e8c3dac39343fc139f659ba0/466da/Hjulet.png "Hjulet")
 
 **Tittel:** Sy en bunad - 2.utg.\
