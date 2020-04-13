@@ -1,16 +1,17 @@
 {
   "title": "Ørn Forlag ",
-  "color_scheme": "dark",
+  "color_scheme": "light",
   "accent_color": "blue",
   "header": {
-    "title": "🦅 Forlag",
-    "has_nav": true
+    "title": "Ørn Forlag",
+    "has_nav": true,
+    "logo_img": "/images/ornshop-logo.png"
   },
   "footer": {
     "content": "&copy; Ørn Forlag. Alle rettigheter reservert. ",
     "links": [
       {
-        "text": "Website by: Martin Andersen built with 💜 using Gatsbyjs ",
+        "text": "Website by: Martin Andersen ",
         "url": "https://github.com/webmaeistro ",
         "new_window": true
       }
