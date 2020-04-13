@@ -1,9 +1,3 @@
 {
-  "main": [
-    {
-      "identifier": "portfolio",
-      "title": "Bøkene",
-      "url": "https://gatsby-orn-portfolio-netlifycms-46fa1.netlify.com/portfolio"
-    }
-  ]
+  "main": []
 }
