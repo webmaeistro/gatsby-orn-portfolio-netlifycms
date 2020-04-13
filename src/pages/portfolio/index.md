@@ -1,10 +1,10 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
-layout_style: mosaic
+title: "Bøkene "
+subtitle: utgitt av Ørn Forlag
+layout_style: tiles
 menus:
   main:
-    title: Portfolio
+    title: "Bøkene "
     weight: 2
 template: portfolio
 ---
