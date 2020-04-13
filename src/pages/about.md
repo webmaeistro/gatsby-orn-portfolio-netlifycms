@@ -1,10 +1,10 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+title: Om oss
+subtitle: Om Ørn Forlag og informasjon
+img_path: /images/ornforlag.jpg
 menus:
   main:
-    title: About
+    title: Om
     weight: 4
 template: page
 ---
