@@ -1,11 +1,6 @@
 ---
 title: Hjem
 sections:
-  - type: heroblock
-    title: "Ørn Forlag "
-    section_id: hero
-    component: HeroBlock
-    content: Utgir bøker om norsk natur og kultur
   - view_all_text: Se alle
     num_projects_displayed: 6
     section_id: latest-projects
@@ -13,46 +8,10 @@ sections:
     subtitle: utgitt av lørn forlag
     title: Bøkene våre
     type: portfolioblock
-    layout_style: tiles
+    layout_style: mosaic
     component: PortfolioBlock
-  - type: servicesblock
-    title: What We Do
-    section_id: services
-    component: ServicesBlock
-    subtitle: An optional subtitle of the section
-    serviceslist:
-      - title: Service Title
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-      - title: Service Title
-        content: "Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. "
-      - title: Service title
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: Service title
-        content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-          sit amet condimentum lorem nibh vel quam. Duis consectetur lorem
-          ipsum, non efficitur urna viverra et.
-  - type: testimonialsblock
-    title: Testimonials
-    section_id: testimonials
-    component: TestimonialsBlock
-    subtitle: An optional subtitle of the section
-    testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
-        content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-          non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
-        content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
   - type: contactblock
-    title: Contact Us
+    title: Kontakt oss
     section_id: contact
     component: ContactBlock
     subtitle: An optional subtitle of the section
