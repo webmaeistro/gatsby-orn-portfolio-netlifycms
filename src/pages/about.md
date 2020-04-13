@@ -1,7 +1,7 @@
 ---
 title: Om Ørn Forlag
 subtitle: ""
-img_path: /images/ornforlag.jpg
+img_path: /images/bjorn-avatar.jpg
 menus:
   main:
     title: Om
