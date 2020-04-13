@@ -1,6 +1,6 @@
 ---
-title: Om oss
-subtitle: Om Ørn Forlag og informasjon
+title: Om Ørn Forlag
+subtitle: ""
 img_path: /images/ornforlag.jpg
 menus:
   main:
@@ -9,10 +9,19 @@ menus:
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+## Kontaktpersoner
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+**Bjørn Olav Tveit**, forlagssjef, tel. +47 909 60 404, bjorn[@]ornforlag.no  
+Elisabeth Anderseen, redaktør, tel. +47 905 17 819 elisabeth.andersen[@]ornforlag.no  
+Martin Andersen, front-end dev, tel. +47 993 47 544, webmaster[@]ornforlag.no  
+Torgunn Andersen, logistikk, tel. +47 975 96 088, torgunn.andersen[@]ornforlag.no  
+Heidi Tveit, regnskap, tel. +47 91 18 90 16, regnskap[@]ornforlag.no
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Post:  
+**Ørn forlag**  
+Veståsen 4,  
+1362 Hosle,  
+Norway
 
-*Thank You for reading!*
+**Organisasjonsnr.:** 994304399  
+**Kontonr.:** 9235.27.10220
