@@ -2,7 +2,7 @@
 title: Sy en Bunad
 subtitle: 2. utgave
 date: 2018-10-03T22:00:00.000Z
-thumb_img_path: /images/syenbunad_2utg_omslag_smallersize.jpg
+thumb_img_path: /images/syenbunad-big.jpg
 content_img_path: /images/syenbunad_2utg_omslag_smallersize.jpg
 menus:
   main:
