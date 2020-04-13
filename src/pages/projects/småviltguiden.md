@@ -3,6 +3,7 @@ title: "Småviltguiden "
 subtitle: artskunnskap for jegere
 date: 2020-04-13T15:51:06.148Z
 thumb_img_path: /images/smaaviltguiden_omslag_0.jpg
+content_img_path: /images/smaaviltguiden_omslag_0.jpg
 menus:
   main:
     title: "Småviltguiden "
@@ -41,5 +42,3 @@ Norges Jeger- og Fiskerforbunds medlemsblad**Jakt & Fiske**omtaler Småviltguide
 
 [![egeland ulv1c small](https://ornforlag.no/static/3419ff581422e92e78bee5cf216d9718/41099/egeland_ulv1c_small.jpg "egeland ulv1c small")](https://ornforlag.no/static/3419ff581422e92e78bee5cf216d9718/41099/egeland_ulv1c_small.jpg)\
 Øivind Egeland fra Sandnes regnes som en av Skandinavias fremste naturkunstnere.
-
-!\[](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
