@@ -1,7 +1,7 @@
 ---
-title: "Bøkene "
-subtitle: utgitt av Ørn Forlag
-layout_style: tiles
+title: Ørn Forlag sine bøker
+subtitle: Her er våre bøker :)
+layout_style: mosaic
 menus:
   main:
     title: "Bøkene "
