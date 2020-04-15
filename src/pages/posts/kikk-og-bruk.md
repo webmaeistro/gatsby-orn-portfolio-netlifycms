@@ -4,6 +4,11 @@ subtitle: hvordan se på fugler
 date: 2020-04-15T19:19:45.956Z
 thumb_img_path: /images/kikkogbruk1500x1000.jpg
 content_img_path: /images/kikk_og_bruk_omslag_hoyopplost.jpg
+excerpt: "**Korrekt oppførsel og antrekk er viktig i selskapslivet, men du kan
+  også trenge veiledning når du skal ut og se på fugler! Enten du er fersk som
+  et nylagt egg, eller du allerede er en flyvedyktig fugleentusiast, vil du ved
+  å følge tipsene og rådene i denne boken løfte fuglegleden din til nye
+  høyder.**"
 template: post
 ---
 <!--StartFragment-->
