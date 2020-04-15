@@ -10,15 +10,15 @@ sections:
     type: portfolioblock
     layout_style: mosaic
     component: PortfolioBlock
+  - type: postsblock
+    component: PostsBlock
+    num_posts_displayed: 8
+    title: Bøkene
   - type: contactblock
     title: Kontakt oss
     section_id: contact
     component: ContactBlock
     subtitle: An optional subtitle of the section
-  - type: postsblock
-    component: PostsBlock
-    num_posts_displayed: 8
-    title: Bøkene
 menus:
   main:
     title: Hjem
