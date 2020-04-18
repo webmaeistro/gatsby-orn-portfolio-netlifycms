@@ -1,8 +1,8 @@
 ---
-title: Nyheter
+title: Våre utgivelser
 menus:
   main:
-    title: Nyheter
+    title: Utgivelser
     weight: 3
 template: blog
 ---
