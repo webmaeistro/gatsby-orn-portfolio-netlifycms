@@ -1,10 +1,10 @@
 ---
-title: Ørn Forlag sine bøker
-subtitle: Her er våre bøker :)
-layout_style: tiles
+title: Her er min portfolie
+subtitle: Sminke og Fx
+layout_style: mosaic
 menus:
   main:
-    title: "Bøkene "
+    title: SminkeFx
     weight: 2
 template: portfolio
 ---
