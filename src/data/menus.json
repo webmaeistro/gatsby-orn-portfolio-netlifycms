@@ -1,9 +1,3 @@
 {
-  "main": [
-    {
-      "title": "OrnShop ",
-      "url": "https://gatsby-ornshop-stripe.now.sh/",
-      "identifier": "footer"
-    }
-  ]
+  "main": []
 }
