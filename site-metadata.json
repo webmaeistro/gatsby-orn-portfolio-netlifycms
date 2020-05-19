@@ -1,14 +1,14 @@
 {
-  "title": "Ørn Forlag ",
-  "color_scheme": "light",
-  "accent_color": "blue",
+  "title": "Josefine Tveit",
+  "color_scheme": "dark",
+  "accent_color": "pink",
   "header": {
-    "title": "Ørn Forlag",
+    "title": "Josefine Tveit",
     "has_nav": true,
-    "logo_img": "/images/ornshop-logo.png"
+    "logo_img": "/images/josefinetveitjpg"
   },
   "footer": {
-    "content": "2020 &copy; Ørn Forlag. Alle rettigheter reservert. ",
+    "content": "2020 &copy; Josefine Tveit. Alle rettigheter reservert. ",
     "links": [
       {
         "text": "Website by: Martin Andersen ",
