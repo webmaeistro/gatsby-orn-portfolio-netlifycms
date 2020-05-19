@@ -1,8 +1,8 @@
 ---
-title: Våre utgivelser
+title: Utført Sminke av meg
 menus:
   main:
-    title: Utgivelser
+    title: Mitt verk
     weight: 3
 template: blog
 ---
