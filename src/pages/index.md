@@ -4,25 +4,22 @@ sections:
   - type: postsblock
     component: PostsBlock
     num_posts_displayed: 8
-    title: "Bøkene utgitt av Ørn Forlag "
-    actions:
-      - label: "ØrnShop Nå! "
-        url: https://gatsby-ornshop-stripe.now.sh/
+    title: Her er josefine's smike prosjekter
+    actions: []
   - type: contactblock
     title: Kontakt oss
     section_id: contact
     component: ContactBlock
-    subtitle: Alle hendvendelser kan sendes via kontakt skjema eller til
-      bjorn[@]ornforlag.no
+    subtitle: Alle hendvendelser kan sendes via kontakt skjema eller til @josefine
   - type: heroblock
     component: HeroBlock
-    title: Forhåndbestill neste bok i dag!
-    content: Du kan nå forhåndbestille neste bok!
+    title: Her er en helte seksjon
+    content: og litt innhold  (ps, drit i "ELEMENT ID (optional) ^ovenfor., (overalt)
   - type: contactblock
     component: ContactBlock
-    title: Forhånds bestill BOKTITTEL
-    section_id: forbestill
-    subtitle: Fyll ut skjema og sikkre din kopi av BOKTITTEL
+    title: Ta kontakt med meg
+    section_id: ""
+    subtitle: <3 nye venner
 menus:
   main:
     title: Hjem
