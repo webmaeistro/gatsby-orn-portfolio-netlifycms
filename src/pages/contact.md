@@ -1,10 +1,9 @@
 ---
-title: Kontakt
+title: Contact
 img_path: ""
 menus:
   main:
-    title: Kontakt
-    weight: 5
+    title: Contact
+    weight: 4
 template: contact
 ---
-Hei! kontakt meg eller ikke
