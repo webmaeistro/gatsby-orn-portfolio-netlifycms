@@ -1,10 +1,10 @@
 ---
-title: Her er min portfolie
-subtitle: Sminke og Fx
+title: Portfolio
+subtitle: ""
 layout_style: mosaic
 menus:
   main:
-    title: SminkeFx
-    weight: 2
+    title: Portfolio
+    weight: 3
 template: portfolio
 ---
