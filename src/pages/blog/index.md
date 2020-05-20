@@ -1,8 +1,8 @@
 ---
-title: Utført Sminke av meg
+title: My Makeup Days
 menus:
   main:
-    title: Mitt verk
+    title: Blog
     weight: 3
 template: blog
 ---
